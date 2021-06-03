@@ -1,6 +1,6 @@
 {
   "name": "car-number-input",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "vue移动端输入车牌号",
   "main": "dist/index.min.js",
   "scripts": {
