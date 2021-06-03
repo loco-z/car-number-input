@@ -1,6 +1,6 @@
 #car-number-input
 vue h5 车牌号输入
-
+```js
 npm install car-number-input -s
 
 <z-car-num-input @carNum="getNum"></z-car-num-input>
