@@ -256,16 +256,7 @@ export default {
     }
   }
   .z-plat-active {
-    width: 29px;
-    height: 40px;
     border: 1px solid #13ad7e;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    margin: 0 5px;
-    box-sizing: border-box;
-    border-radius: 5px;
   }
 }
 .z-keyboard {
